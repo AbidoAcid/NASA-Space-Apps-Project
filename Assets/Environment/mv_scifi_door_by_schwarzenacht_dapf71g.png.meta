@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: b9094c9e27c2f0846b1fb061a8223e7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951345f133f0f649992a7a377dce69e
+      internalID: -976214563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fff60f131fff84b9db361ce44ebf3c
+      internalID: 886091371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db253d0614c1fe84f971cba498e82ef4
+      internalID: 396550322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a6374332738449a01ebf791e9ac4b
+      internalID: 1168563437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62dc92d52ee9d4a93ea71086f0ffb8
+      internalID: 1291607774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb30135beb44d45b22ba5d44f24e46
+      internalID: 471274670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b6ae122d67b947affc2120ef2cc26
+      internalID: -209705240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae6e2196fb70d499149dcf3b148d2f
+      internalID: -140296563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf09e6b980373d4797ea48d2ed02883
+      internalID: -1260312029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7246a28db5a34abb40d3f0f666917
+      internalID: 1241609986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_10
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c8c91ff2bb3e42b9bba6aa73efb9c
+      internalID: 1754262513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 672
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e47b5201e701642a6c57f5bcbfeec7
+      internalID: -866718318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b0134b3da42a449b29b9f79a5eaf4
+      internalID: -1592360075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c5e74931d8904eac34c838d7aa44b
+      internalID: -1608129936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec621c31b2e47489f2c4ce917005bf
+      internalID: 262418223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6567078de2834ea8c38425a202b70
+      internalID: 950223804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17626779b8bb7745b4510021f0199a7
+      internalID: -1335696128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36346a9bec5904cb9c1a9b32c24370
+      internalID: 793782045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bfd24df68cc15438a08a6d9ff1299c
+      internalID: -1904134018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71301ec90ed23f1478dc83b78d2097b8
+      internalID: 1015558896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24600d263dc3a034bacc0c7851e2cd1b
+      internalID: -1846729133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267487040c594a4c824532ae9bd4f6b
+      internalID: 412709723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccab71a8e693a84ea0e80ff36cae8e5
+      internalID: -2034894493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_23
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 576
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929218dc64171d468ce432072257186
+      internalID: -2120629381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280625811585fbb44b26e286ce42d9f2
+      internalID: 1170402131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe05d4ef308b624b8f5b03222ae1f1a
+      internalID: 507344294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080715d50f987349a3a8733a78a1e5a
+      internalID: 1802974300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51488a9742773445a9f2a9d4146ec55
+      internalID: -931115091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6699ecd26fbd684b80ee28f7f2a867d
+      internalID: 1232781177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5ac985b3f17f49a0959714972488f
+      internalID: 1184896551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc0c973c150d94b97d9c751ff0b253
+      internalID: -1289886428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6366ede42a0d249a2c367fd90d37dd
+      internalID: -2099321246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93769e4a54f4809448a9e01c7e27ec55
+      internalID: 1728913459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_33
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00c10698df5de4f85ad6e4b10698ef
+      internalID: 857958415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06cbb487191be4292b112b833ecce0
+      internalID: 1737344483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4a6c4387b78e4da1b4c280036b635
+      internalID: -160779267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_door_by_schwarzenacht_dapf71g_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 864
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468a89c7dd286447b0f7b287712f052
+      internalID: 799562755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mv_scifi_door_by_schwarzenacht_dapf71g_18: -1904134018
+      mv_scifi_door_by_schwarzenacht_dapf71g_4: 1291607774
+      mv_scifi_door_by_schwarzenacht_dapf71g_5: 471274670
+      mv_scifi_door_by_schwarzenacht_dapf71g_25: 507344294
+      mv_scifi_door_by_schwarzenacht_dapf71g_28: 1232781177
+      mv_scifi_door_by_schwarzenacht_dapf71g_0: -976214563
+      mv_scifi_door_by_schwarzenacht_dapf71g_35: -160779267
+      mv_scifi_door_by_schwarzenacht_dapf71g_33: 857958415
+      mv_scifi_door_by_schwarzenacht_dapf71g_3: 1168563437
+      mv_scifi_door_by_schwarzenacht_dapf71g_10: 1754262513
+      mv_scifi_door_by_schwarzenacht_dapf71g_6: -209705240
+      mv_scifi_door_by_schwarzenacht_dapf71g_36: 799562755
+      mv_scifi_door_by_schwarzenacht_dapf71g_13: -1608129936
+      mv_scifi_door_by_schwarzenacht_dapf71g_12: -1592360075
+      mv_scifi_door_by_schwarzenacht_dapf71g_29: 1184896551
+      mv_scifi_door_by_schwarzenacht_dapf71g_20: -1846729133
+      mv_scifi_door_by_schwarzenacht_dapf71g_27: -931115091
+      mv_scifi_door_by_schwarzenacht_dapf71g_19: 1015558896
+      mv_scifi_door_by_schwarzenacht_dapf71g_24: 1170402131
+      mv_scifi_door_by_schwarzenacht_dapf71g_2: 396550322
+      mv_scifi_door_by_schwarzenacht_dapf71g_16: -1335696128
+      mv_scifi_door_by_schwarzenacht_dapf71g_22: -2034894493
+      mv_scifi_door_by_schwarzenacht_dapf71g_31: -2099321246
+      mv_scifi_door_by_schwarzenacht_dapf71g_23: -2120629381
+      mv_scifi_door_by_schwarzenacht_dapf71g_14: 262418223
+      mv_scifi_door_by_schwarzenacht_dapf71g_17: 793782045
+      mv_scifi_door_by_schwarzenacht_dapf71g_26: 1802974300
+      mv_scifi_door_by_schwarzenacht_dapf71g_21: 412709723
+      mv_scifi_door_by_schwarzenacht_dapf71g_32: 1728913459
+      mv_scifi_door_by_schwarzenacht_dapf71g_30: -1289886428
+      mv_scifi_door_by_schwarzenacht_dapf71g_15: 950223804
+      mv_scifi_door_by_schwarzenacht_dapf71g_7: -140296563
+      mv_scifi_door_by_schwarzenacht_dapf71g_9: 1241609986
+      mv_scifi_door_by_schwarzenacht_dapf71g_1: 886091371
+      mv_scifi_door_by_schwarzenacht_dapf71g_8: -1260312029
+      mv_scifi_door_by_schwarzenacht_dapf71g_11: -866718318
+      mv_scifi_door_by_schwarzenacht_dapf71g_34: 1737344483
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
