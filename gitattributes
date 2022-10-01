@@ -33,7 +33,7 @@
 
 #Video
 *.mp4 filter=lfs diff=lfs merge=lfs -text
-*.webm filter=lfs diff=lfs merge=lfs -text
+4k-california-seen-from-space.webm filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 
 #3D Object
