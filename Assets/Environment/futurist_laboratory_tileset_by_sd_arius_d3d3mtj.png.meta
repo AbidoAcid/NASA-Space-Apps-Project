@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: d4dc144399ce6ce4f90cf1a01667d1d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7c48a53030b84cbdea96ff518cdf2
+      internalID: 1643950228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379d53275890b74b935b5d183bc26c6
+      internalID: 1244906959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 416
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980ec49a9ac4c2446a300e5a4993c599
+      internalID: -1801300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 320
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba027fb7d0960841ab9439c106fb74b
+      internalID: -1549180677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06adfe1656ad234ba5148ea2ee1a11c
+      internalID: -1578356838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16906eb6c73dd764790851494029336f
+      internalID: -940658362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8baf3eacc7473c43b7e0eefd352081c
+      internalID: -2001096004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d9d6b8115f384a8fdfaec59e585e4
+      internalID: -2038255401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ef741f3ca352448c6b928a973429c
+      internalID: -2093160914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4cc122b18f0d64c9c9839f61f1e1a7
+      internalID: 1760726325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3c704e5949fd41875dd8aa04e4f0e
+      internalID: -1370983045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588a410c59e47d45b753f9e74d5160f
+      internalID: -1104612011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d60fdf35fb5f46bb653f7ad3d9a38
+      internalID: -434966900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef39810bbcc7d14794c07b90b5155cf
+      internalID: 988839130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77d133d6d4e014cac5d29f2f04b738
+      internalID: 746028660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450a0bc23f5ebb418b7ab6209316e86
+      internalID: -1280570624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afec2763ebba1d4ab5b2053e5102bfe
+      internalID: -2136878978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedbe042d24c0643aef71738f53c71d
+      internalID: 503510733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204240daae9455d44b7a4e8f112641d9
+      internalID: 905701285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe262e25e62d94d8bddda67ed3cce3
+      internalID: 2091974563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec85f9234519ee647bb6e5b1ad53a398
+      internalID: -1070957325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 160
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62340029d6d0841478e9d49d38b5bb82
+      internalID: 1120757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6719437f6980b4b8622e38367e78f1
+      internalID: 1972961054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e512a9b60973754584e0063f13eba67
+      internalID: 1889373693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153354b27c7eae4c9a76d0d3d9b52e8
+      internalID: 1262935918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3209cdaf9797bdf4089b55060e95855a
+      internalID: -1983694194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0aab73bfa9664e91aff78b041685a
+      internalID: -1076678986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da81a20ea59d4f41a75a7ce77dd11b0
+      internalID: -839450778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9ff43d04f11549a09db56c626ec1e
+      internalID: -1362316905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurist_laboratory_tileset_by_sd_arius_d3d3mtj_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2dfcaf0aa617e409ea518949d3478a
+      internalID: -1178862852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_17: 503510733
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_9: 1760726325
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_5: -940658362
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_4: -1578356838
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_24: 1262935918
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_7: -2038255401
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_15: -1280570624
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_11: -1104612011
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_23: 1889373693
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_1: 1244906959
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_18: 905701285
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_16: -2136878978
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_14: 746028660
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_26: -1076678986
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_28: -1362316905
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_22: 1972961054
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_20: -1070957325
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_10: -1370983045
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_25: -1983694194
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_2: -1801300586
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_0: 1643950228
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_6: -2001096004
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_8: -2093160914
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_21: 1120757411
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_27: -839450778
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_19: 2091974563
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_3: -1549180677
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_29: -1178862852
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_12: -434966900
+      futurist_laboratory_tileset_by_sd_arius_d3d3mtj_13: 988839130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

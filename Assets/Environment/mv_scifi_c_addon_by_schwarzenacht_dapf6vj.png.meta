@@ -3,7 +3,7 @@ guid: 71f52170cac919e4bb4d20b73d4e7046
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,6 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -76,9 +77,612 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde088c57cbade7438056a5994c54365
+      internalID: 804595048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196fbc7974f26d428c9d32c7ba4b468
+      internalID: 987119230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd834959dfffa241bd76ed53b96234d
+      internalID: 957129898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 114
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c3460c871cd7458d95eac43e0811f
+      internalID: -1263911393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc180ca210dc149a62c01d4bf19783
+      internalID: -1981576928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191f16c48868534c978e440d9f55648
+      internalID: -2034258093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08febe3a5b03f8c4692ae08d6e33cd0d
+      internalID: 1764343837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc34bfd5ef3d32408872477aab183af
+      internalID: -2090532790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 98
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a184f2fb4de2704cbf5171281d6d5af
+      internalID: 1663362581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db6b80706d3b44c9ae2e69b85be1f2
+      internalID: -386093655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e2f36c2bb8724aa458499feabe6ac
+      internalID: -1876299864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 102
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0347078e7ec5449580b5a7b2ceacf
+      internalID: 1231982250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864189a823578e46adae787721c6775
+      internalID: 1253390483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71579daa758a6bd41b774bb2478bec12
+      internalID: -1525196115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a482017a19c234baac210113e8a647
+      internalID: -1018530702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96361d38605750847a4ff55e04f9eb25
+      internalID: -1951980272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 105
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dabdf5fa4f49243992622a43c2d318
+      internalID: -1397996352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 47
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff822430f4d5c4e9e5537f47ef495d
+      internalID: 1334111836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3c4f0f5021dc46bb9fff5c8e062d7
+      internalID: 729889336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 98
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1d213b395c294fa37bbcaf0e140a2
+      internalID: 803863452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa440bd66b71fcf44ad28b09a63f4489
+      internalID: 463499675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6253d67e613b841a34f060fb47e0f0
+      internalID: 1841386952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f32a26e57829d46962b2fce4d555ff
+      internalID: 1960061764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 160
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296f4e6f6796f8408833592ef492063
+      internalID: -1252073855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c910c83a941474886e2bc716874382
+      internalID: 846126538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618fd37c5436c24799dd3fcfa7b2782
+      internalID: 48541901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mv_scifi_c_addon_by_schwarzenacht_dapf6vj_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eca0f1177790143b582b780190e6bd
+      internalID: -774928772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -89,7 +693,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_10: -1876299864
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_18: 729889336
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_7: -2090532790
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_12: 1253390483
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_23: -1252073855
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_13: -1525196115
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_21: 1841386952
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_6: 1764343837
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_2: 957129898
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_11: 1231982250
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_1: 987119230
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_20: 463499675
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_4: -1981576928
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_22: 1960061764
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_26: -774928772
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_24: 846126538
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_25: 48541901
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_19: 803863452
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_3: -1263911393
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_9: -386093655
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_17: 1334111836
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_16: -1397996352
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_15: -1951980272
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_5: -2034258093
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_8: 1663362581
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_14: -1018530702
+      mv_scifi_c_addon_by_schwarzenacht_dapf6vj_0: 804595048
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
